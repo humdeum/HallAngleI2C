@@ -1,0 +1,1 @@
+HallAngleI2C
